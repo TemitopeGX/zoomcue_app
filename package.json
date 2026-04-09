@@ -5,8 +5,8 @@
 	"type": "module",
 	"packageManager": "npm@10.9.4",
 	"engines": {
-		"node": "22.22.1",
-		"npm": "10.9.4"
+		"node": ">=22",
+		"npm": ">=10"
 	},
 	"author": {
 		"name": "Devluxe Studio",
