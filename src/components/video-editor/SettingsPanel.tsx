@@ -1,6 +1,5 @@
 import Block from "@uiw/react-color-block";
 import {
-	Bug,
 	Crop,
 	Download,
 	Film,
@@ -8,7 +7,6 @@ import {
 	Lock,
 	Palette,
 	Sparkles,
-	Star,
 	Trash2,
 	Unlock,
 	Upload,
