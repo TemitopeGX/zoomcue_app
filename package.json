@@ -113,5 +113,9 @@
 	"main": "dist-electron/main.js",
 	"lint-staged": {
 		"*.{ts,tsx,js,jsx,mts,cts,json}": "biome check --no-errors-on-unmatched"
+	},
+	"optionalDependencies": {
+		"@rollup/rollup-linux-x64-gnu": "4.52.4",
+		"@rollup/rollup-linux-arm64-gnu": "4.52.4"
 	}
 }
