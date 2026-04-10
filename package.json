@@ -117,7 +117,11 @@
 	"optionalDependencies": {
 		"@rollup/rollup-linux-x64-gnu": "4.52.4",
 		"@rollup/rollup-linux-arm64-gnu": "4.52.4",
+		"@rollup/rollup-darwin-arm64": "4.52.4",
+		"@rollup/rollup-darwin-x64": "4.52.4",
 		"@biomejs/cli-linux-x64": "2.3.13",
-		"@biomejs/cli-linux-arm64": "2.3.13"
+		"@biomejs/cli-linux-arm64": "2.3.13",
+		"@biomejs/cli-darwin-arm64": "2.3.13",
+		"@biomejs/cli-darwin-x64": "2.3.13"
 	}
 }
